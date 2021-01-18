@@ -7,7 +7,7 @@ import numpy as np
 import fourier_transform as ft
 
 
-# %%
+# %% adding some changes here
 
 N = 1000
 win0 = ft.windows(100)
